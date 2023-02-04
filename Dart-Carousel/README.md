@@ -1,6 +1,3 @@
-# Dart Programming Tutorial for Beginners 
-Learn Dart Programming, its basics and Fundamentals from scratch. Follow [this](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) YouTube tutorial to learn and practice Dart.
-
 ## Topics to be covered
 0. Overview
     - Course introduction, prequisites and software required
@@ -60,7 +57,3 @@ Learn Dart Programming, its basics and Fundamentals from scratch. Follow [this](
     - Map and HashMap 
 12. Callable Classes 
 13. Conclusion 
-
-## Authors
-
-* **Team Smartherd** 
